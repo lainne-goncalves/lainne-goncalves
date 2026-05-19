@@ -1,3 +1,9 @@
+<div align="right">
+  <strong>Mudar idioma / Change language:</strong> 
+  <a href="./README.md"><b>Português 🇧🇷</b></a> | 
+  <a href="./README.en.md">English 🇺🇸</a>
+</div>
+
 # Oii, sou Lainne Gonçalves! 👋
 
 Atualmente, curso **Ciência e Tecnologia** na UFBA, mas iniciei a carreira tech pela Jala University, cursando **Engenharia de Software**. 
