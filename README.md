@@ -1,11 +1,10 @@
 # Oii, sou Lainne Gonçalves! 👋
 
-Atualmente, curso **Ciência e Tecnologia** na UFBA, mas iniciei a carreira tech pela Jala University, cursando **Engenharia de Software**. O meu foco resolver problemas reais através da tecnologia. Gosto de analisar processos, entender as dores operacionais e criar soluções que transformem tarefas complexas em fluxos eficientes.
-
+Atualmente, curso **Ciência e Tecnologia** na UFBA, mas iniciei a carreira tech pela Jala University, cursando **Engenharia de Software**. 
 ---
 
 ### 💻 Um pouquinho do que faço:
-- **Mapeamento de Requisitos e Visão de Produto (P.O.):** Foco na jornada e nas necessidades reais (mapeamento de obstáculos e facilidades no fluxo de trabalho). Identifico o problema de negócio e trago a solução técnica.
+- **Mapeamento de Requisitos e Visão de Produto (P.O.):** Foco na jornada  e no mapeamento de obstáculos e facilidades no fluxo de trabalho. Identifico o problema de negócio e trago a solução técnica.
 - **Automação Estratégica:** Observo o cenário, identifico padrões de repetição, planejo a otimização e só então implemento a automação.
 - **Inteligência de Dados para Negócios:** Estruturo informações e bancos de dados para que empresas de fora do nicho de tecnologia consigam enxergar valor em seus próprios dados, facilitando a tomada de decisão sem o uso de jargões técnicos.
 - **Desenvolvimento de Soluções:** Construção de sistemas versáteis para resolver demandas de negócio de ponta a ponta.
